@@ -1,2 +1,2 @@
 # test_repo
-This is THE test repo
+This is the one and only test repository
